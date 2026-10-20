@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kubeconfig
+kubeconfig.*
+.DS_Store
